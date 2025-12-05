@@ -1,0 +1,14 @@
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.AssemblyInfoInputs.cache
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.AssemblyInfo.cs
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.csproj.CoreCompileInputs.cache
+C:\Users\lipskiy\source\repos\tab\tab\bin\Debug\net9.0\tab.exe
+C:\Users\lipskiy\source\repos\tab\tab\bin\Debug\net9.0\tab.deps.json
+C:\Users\lipskiy\source\repos\tab\tab\bin\Debug\net9.0\tab.runtimeconfig.json
+C:\Users\lipskiy\source\repos\tab\tab\bin\Debug\net9.0\tab.dll
+C:\Users\lipskiy\source\repos\tab\tab\bin\Debug\net9.0\tab.pdb
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.dll
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\refint\tab.dll
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.pdb
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\tab.genruntimeconfig.cache
+C:\Users\lipskiy\source\repos\tab\tab\obj\Debug\net9.0\ref\tab.dll
