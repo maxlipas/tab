@@ -14,6 +14,7 @@ try
         double f = (Math.Pow(x, 2 * k)) / y;
         Console.WriteLine($"f({x}) = {f}");
         x += h;
+        k++;
     }
     while (x < 2.1);
 
